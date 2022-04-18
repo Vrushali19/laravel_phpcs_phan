@@ -9,9 +9,9 @@ Clone the project and run composer update
 
 # Codesniffer
      1. Use following command to detect violations
-	./vendor/bin/phpcs
+	    ./vendor/bin/phpcs
      2. Use following command to automatically correct some styling violations
-     ./vendor/bin/phpcbf
+        ./vendor/bin/phpcbf
      
 # Phar
     Run the phan using following command
